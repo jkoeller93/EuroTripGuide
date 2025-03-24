@@ -1,4 +1,4 @@
-# 🌍 Euro Trip Guide. Eine multifunktionale Reise-App für Städte, Länder, Kultur und Wetterinfos in Europa
+# 🌍 EuroTripGuide: Eine multifunktionale Reise-App für Städte, Länder, Kultur und Wetterinfos in Europa
 Diese Web-App bietet dir alle wichtigen Infos zu deinem nächsten Reiseziel. Wähle auf der Startseite ein Land aus – die Auswahl einer Stadt ist optional. Je nach Auswahl erhältst du Daten zu Wetter, Events, Feiertagen, Sehenswürdigkeiten und mehr.
 
 ### 🚀 Funktionen
