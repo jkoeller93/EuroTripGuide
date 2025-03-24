@@ -1,0 +1,15 @@
+streamlit 
+requests
+json
+folium
+streamlit_folium
+datetime
+pytz
+deep_translator
+meteostat
+os
+sys
+holidays
+wbgapi
+geopandas
+
